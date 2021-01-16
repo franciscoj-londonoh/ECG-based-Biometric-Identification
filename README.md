@@ -5,7 +5,7 @@
 
 ## Background
 
-The database is available at Physionet [1][https://physionet.org/content/ecgiddb/1.0.0/], and it was created and contributed by Lugovaya T. [2]
+The database is available at Physionet [1](https://physionet.org/content/ecgiddb/1.0.0/), and it was created and contributed by Lugovaya T. [2]
 
 Obtained from 90 subjects, the database contains 310 ECG recordings including: 
 
@@ -30,5 +30,8 @@ Part 2: EDA
 
 Part 3: ECG classification algorithm
 
+
+### References
 [1] Goldberger, A., Amaral, L., Glass, L., Hausdorff, J., Ivanov, P. C., Mark, R., ... & Stanley, H. E. (2000). PhysioBank, PhysioToolkit, and PhysioNet: Components of a new research resource for complex physiologic signals. Circulation [Online]. 101 (23), pp. e215–e220.
+
 [2] Lugovaya T.S. Biometric human identification based on electrocardiogram. [Master's thesis] Faculty of Computing Technologies and Informatics, Electrotechnical University "LETI", Saint-Petersburg, Russian Federation; June 2005.
