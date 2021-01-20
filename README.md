@@ -21,8 +21,11 @@ The development of this project involved:
 Part 1: [Data preparation](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Part1_DataPreparation.ipynb)
 
 Part 2: Exporatory Data Analysis [(EDA)](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Part2_EDA.ipynb)
+![EDA_heatmap](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/HeatMap.png)
 
 Part 3: Data Modeling - ECG classification (algorithm)[https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Part3_DataModeling.ipynb]
+![Feature_weights](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/Feature_weigth.png)
+![Feature_impact](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/Feature_TrainImpact.png)
 
 
 ### References
