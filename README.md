@@ -35,6 +35,13 @@ Finally, the dataframe is curated as input for the proposed SVM linear model, wh
 ![Feature_weights](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/Feature_weigth.png)
 ![Feature_impact](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/Feature_TrainImpact.png)
 
+Supportive functions: [ECG Biometric functions](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/ECG_Biometric_functions.py)
+This .py file contains functions that are called by Part 3 of the project (described above) to perform data modelling. The file includes the functions: 
+- svmlinear_model
+- model_performace
+- coef_weights
+- find_optimal_model
+
 
 ### References
 [1] Lugovaya T.S. Biometric human identification based on electrocardiogram. [Master's thesis] Faculty of Computing Technologies and Informatics, Electrotechnical University "LETI", Saint-Petersburg, Russian Federation; June 2005.
