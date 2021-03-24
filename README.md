@@ -35,7 +35,7 @@ Finally, the dataframe is curated as input for the proposed SVM linear model, wh
 ![Feature_weights](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/Feature_weigth.png)
 ![Feature_impact](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/Feature_TrainImpact.png)
 
-Supportive functions: [ECG Biometric functions](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/ECG_Biometric_functions.py)
+Supportive functions: [ECG Biometric functions](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/ECG_Biometric_functions.py).
 This .py file contains functions that are called by Part 3 of the project (described above) to perform data modelling. The file includes the functions: 
 - svmlinear_model
 - model_performace
