@@ -26,7 +26,7 @@ Part 2: Exploratory Data Analysis [(EDA)](https://github.com/franciscoj-londonoh
 
 This second part of the project shows the age and gender distributions of the sample population, and explores potential correlations between the selected features to identify redundancy.
 
-![EDA_heatmap](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/HeatMap.png)
+![EDA_heatmap](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Images/HeatMap_2.png)
 
 Part 3: [Data Modeling](https://github.com/franciscoj-londonoh/ECG-based-Biometric-Identification/blob/main/Part3_DataModeling.ipynb) - ECG classification algorithm
 
